@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://media.imgcdn.org/repo/2024/04/vue-designer-pinegrow/6630d83da4ffa-vue-designer-pinegrow-Icon.webp" width="200" alt="Vue Designer macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Vue%20Designer">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Vue%20Designer">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Vue Designer macOS page">
  </a><br><br>
  <div align="center">
